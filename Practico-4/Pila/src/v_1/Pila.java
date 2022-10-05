@@ -27,9 +27,8 @@ public class Pila<T>{
 
     public Pila<T> reverse(){
         Pila<T> nuevaPila = new Pila<>();
-
-        for (Iterator<T> it = iterator(); it.hasNext();)
-            nuevaPila.push(it.next());
+        for(T e : iterator())
+            nuevaPila.push(e);
         return nuevaPila;
     }
 
@@ -38,13 +37,13 @@ public class Pila<T>{
     @Override
     public String toString() {
         StringBuilder res = new StringBuilder();
-        for (Iterator<T> it = iterator(); it.hasNext();)
-            res.append(" [- ").append(it.next()).append(" -] ");
+        for(T e : iterator())
+            res.append(" [- ").append(e).append(" -] ");
         return res.toString();
     }
 
-    public Iterator<T> iterator() { return new IteratorPila(); }
-    class IteratorPila implements Iterator<T>{
+    protected IteratorPila iterator() { return new IteratorPila(); }
+    private class IteratorPila implements Iterator<T>, Iterable<T>{
         Nodo<T> cursor = elementos;
 
         @Override
@@ -57,6 +56,11 @@ public class Pila<T>{
             T e = cursor.getTope();
             cursor = cursor.getSiguiente();
             return e;
+        }
+
+        @Override
+        public Iterator<T> iterator() {
+            return new IteratorPila();
         }
     }
 
