@@ -6,7 +6,7 @@ import java.util.List;
 public class Temporada {
     private List<Episodio> episodios;
 
-    public Temporada(ArrayList<Episodio> episodios){ this.episodios = episodios; }
+    public Temporada(List<Episodio> episodios){ this.episodios = episodios; }
     public Temporada(){ }
 
     public int getCantidadVistas(){

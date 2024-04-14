@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practico-3/Alarmas/Alarmas.iml" filepath="$PROJECT_DIR$/Practico-3/Alarmas/Alarmas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-3/Avicola/Avicola.iml" filepath="$PROJECT_DIR$/Practico-3/Avicola/Avicola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicios-Objetos.iml" filepath="$PROJECT_DIR$/.idea/Ejercicios-Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-2/Electrodomesticos_ej2/Electrodomesticos_ej2.iml" filepath="$PROJECT_DIR$/Practico-2/Electrodomesticos_ej2/Electrodomesticos_ej2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica-Teoria/Ferreteria/Ferreteria.iml" filepath="$PROJECT_DIR$/Practica-Teoria/Ferreteria/Ferreteria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial/Parcial.iml" filepath="$PROJECT_DIR$/Parcial/Parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-2/Persona_ej1/Persona_ej1.iml" filepath="$PROJECT_DIR$/Practico-2/Persona_ej1/Persona_ej1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-4/Practico-4.iml" filepath="$PROJECT_DIR$/Practico-4/Practico-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-6/Practico-6.iml" filepath="$PROJECT_DIR$/Practico-6/Practico-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recuperatorio/Recuperatorio.iml" filepath="$PROJECT_DIR$/Recuperatorio/Recuperatorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-2/Series/Series.iml" filepath="$PROJECT_DIR$/Practico-2/Series/Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-3/Sistema Bancario/Sistema Bancario.iml" filepath="$PROJECT_DIR$/Practico-3/Sistema Bancario/Sistema Bancario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica-Teoria/Sistema_Bancario/Sistema_Bancario.iml" filepath="$PROJECT_DIR$/Practica-Teoria/Sistema_Bancario/Sistema_Bancario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practico-3/Sueldos/Sueldos.iml" filepath="$PROJECT_DIR$/Practico-3/Sueldos/Sueldos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica-Teoria/Tabla/Tabla.iml" filepath="$PROJECT_DIR$/Practica-Teoria/Tabla/Tabla.iml" />
+    </modules>
+  </component>
+</project>
